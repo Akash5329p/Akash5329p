@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akash5329p
 - 👀 I’m interested in Playing chess
-- 🌱 I’m currently learning B.E CSE(AIMl)
+- 🌱 I’m currently learning B.E CSE(AIML)
 - 😄 Pronouns: Be Infinity
 
 
